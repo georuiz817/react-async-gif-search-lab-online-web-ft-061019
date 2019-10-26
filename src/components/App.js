@@ -15,7 +15,7 @@ const App = () => {
 
 export default App
 //
-
+//
 //<App/>
 //Your top level component will be the <App /> component-- no surprises there! 
 //It will be responsible for rendering the <NavBar /> component (this component is already provided for you, 
